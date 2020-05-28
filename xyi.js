@@ -11,3 +11,11 @@ const per3 = "petyx"
 const per4 = "evgeniy"
 const result5 = per3+per4;
 console. log (result5)
+const per5 = "true";
+const per6 = "false";
+const result6 = per5 && per6;
+console.log (result6)
+const per7 = "true";
+const per8 = "false";
+const result7 = per7 || per8;
+console.log (result7)

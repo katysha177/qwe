@@ -25,7 +25,7 @@ const result8 = per9 === per10;
 const result9 = per9 !== per10;
 console.log = (result8,result9)
 const per11 = "kyriza";
-const per12 = result9;
+const per12 = "kyriza";
 const result10 = per11===per12;
 const result11 = per11!==per12;
 console.log = (result10,result11)

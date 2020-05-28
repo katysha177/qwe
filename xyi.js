@@ -19,3 +19,13 @@ const per7 = "true";
 const per8 = "false";
 const result7 = per7 || per8;
 console.log (result7)
+const per9 = "ytka";
+const per10 = "petyx";
+const result8 = per9 === per10;
+const result9 = per9 !== per10;
+console.log = (result8,result9)
+const per11 = "kyriza";
+const per12 = result9;
+const result10 = per11===per12;
+const result11 = per11!==per12;
+console.log = (result10,result11)

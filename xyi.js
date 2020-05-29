@@ -29,3 +29,22 @@ const per12 = "kyriza";
 const result10 = per11===per12;
 const result11 = per11!==per12;
 console.log (result10,result11)
+const per13 = true;
+console.log(typeof per13)
+const per14 = "vetka" ;
+console.log (typeof per14)
+const per15 = 12;
+console.log (typeof per15)
+const per16 = { property_name: "vivabraslav" }
+console.log (typeof per16.property_name)
+const per17 = { pir: 24}
+console.log  ( per17.pir)
+const per18 =  {property_name: "vivabraslav", pir: 24 }
+console.log (typeof per18)
+const per19 = {wel:"Evgeniypetyx",zbs:"kyriza"}
+const result12 = per19.wel+per19.zbs
+console.log (result12)
+console.log(result12.length)
+//task 9 start
+const per20 = {per1-per2}
+console.log (result13)
